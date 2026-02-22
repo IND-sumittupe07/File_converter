@@ -1,0 +1,41 @@
+{
+  "name": "Student Tools Platform",
+  "short_name": "StudentTools",
+  "description": "All-in-one academic productivity platform for students - PDF, Resume, CGPA, Attendance and more",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f6f4",
+  "theme_color": "#0a7a73",
+  "orientation": "portrait-primary",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%230a7a73' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' fill='white' text-anchor='middle' font-family='system-ui'>ST</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  " shortcuts": [
+    {
+      "name": "PDF Converter",
+      "short_name": "PDF",
+      "url": "/#pdf-converter",
+      "description": "Convert files to PDF"
+    },
+    {
+      "name": "CGPA Calculator",
+      "short_name": "CGPA",
+      "url": "/#cgpa-calculator",
+      "description": "Calculate your CGPA"
+    },
+    {
+      "name": "Attendance",
+      "short_name": "Attendance",
+      "url": "/#attendance-calculator",
+      "description": "Track attendance percentage"
+    }
+  ],
+  "prefer_related_applications": false
+}

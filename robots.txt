@@ -1,0 +1,11 @@
+# Robots.txt for Student Tools Platform
+# https://studenttoolshub.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://studenttoolshub.com/sitemap.xml
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
